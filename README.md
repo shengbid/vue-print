@@ -1,4 +1,4 @@
-# vue-print-nb
+# vue-print
 
 基于vue-print-nb打印组件的拓展功能,下载后放在项目中引用
 详情请看博客介绍
