@@ -6,7 +6,7 @@
 
 ## Install
 
-#### NPM
+#### main.js文件引用
 
 ```javascript
 import Print from './xxxx/vue-print-nb/src'
